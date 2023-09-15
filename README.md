@@ -35,8 +35,11 @@
 <head>
 <tittle> science is our life </tittle>
 </head>
+<body>
+<a href = "https://youtube.com/@science.world.265?si=7sulgII9uCHczMQE"> click here </a>
+</body>
+</html>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -55,10 +58,3 @@
    
 </body>
 </html>
-
-<body>
-<a href = "https://youtube.com/@science.world.265?si=7sulgII9uCHczMQE"> click here </a>
-</body>
-</html>
-
-
