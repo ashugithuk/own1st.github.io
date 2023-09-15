@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +18,7 @@
 
 <html>
 <head>
-<tittle> marquee </tittle>
+<tittle> **INDIA** </tittle>
 </head>
 <body bg colour = "blue" text = red>
 <center> <h1> Welcome to India </h1> </center>
@@ -31,3 +30,14 @@
 </marquee>
 </body>
 </html>
+
+<html>
+<head>
+<tittle> science is our life </tittle>
+</head>
+<body>
+<a href = "https://youtube.com/@science.world.265?si=7sulgII9uCHczMQE"> click here </a>
+</body>
+</html>
+
+
