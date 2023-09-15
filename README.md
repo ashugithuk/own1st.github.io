@@ -35,6 +35,27 @@
 <head>
 <tittle> science is our life </tittle>
 </head>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Background Color</title>
+    <style>
+        /* CSS styles for the body element to set the background color */
+        body {
+            background-color: lightblue; /* You can replace "lightblue" with your desired color */
+            margin: 0; /* Remove default margin for the body */
+            padding: 0; /* Remove default padding for the body */
+        }
+    </style>
+</head>
+<body>
+   
+</body>
+</html>
+
 <body>
 <a href = "https://youtube.com/@science.world.265?si=7sulgII9uCHczMQE"> click here </a>
 </body>
