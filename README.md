@@ -13,8 +13,7 @@
             alert('WELCOME, World!');
         }
     </script>
-</body>
-</html>
+
 
 <html>
 <head>
