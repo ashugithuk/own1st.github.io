@@ -4,8 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome Program</title>
 </head>
-<body>
-    <h1>WELCOME, World!</h1>
+<body bg colour = "red" text = red>
+   <center> <h1>WELCOME, World!</h1>
     <button onclick="displayMessage()">Click Me</button>
 
     <script>
@@ -20,13 +20,13 @@
 <head>
 <tittle> **INDIA** </tittle>
 </head>
-<body bg colour = "blue" text = red>
+<body bg colour = "red" text = red>
 <center> <h1> Welcome to India </h1> </center>
 <marquee align = center behaviour = alternation direction = right>
-<img src = "https://cdn.pixabay.com/photo/2020/02/02/17/24/travel-4813658_640.jpg" height=200 widht=200>
+<img src = "https://cdn.pixabay.com/photo/2020/02/02/17/24/travel-4813658_640.jpg" height=120 widht=120>
 </marquee>
 <marquee align=center behaviour=alternation diretion = left>
-<img src = "https://cdn.pixabay.com/photo/2020/02/02/17/24/travel-4813658_640.jpg" height=200 width=300>
+<img src = "https://cdn.pixabay.com/photo/2020/02/02/17/24/travel-4813658_640.jpg" height=120 width=200>
 </marquee>
 </body>
 </html>
